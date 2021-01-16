@@ -3,6 +3,7 @@ public class Klient{
         System.out.println("hello");
         System.out.println("jo-jo");
         System.out.println("Maszka");
+        robot
     }
 }
 
